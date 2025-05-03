@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcpflow-angleone-mcp-server-badge.png)](https://mseep.ai/app/mcpflow-angleone-mcp-server)
+
 # Angle One MCP Server
 
 An MCP (Model Context Protocol) server implementation integrated with Angle One APIs for financial data processing and analysis.
